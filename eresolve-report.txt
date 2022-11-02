@@ -1,0 +1,3163 @@
+# npm resolution error report
+
+2022-10-23T10:27:26.723Z
+
+While resolving: @mui/styles@5.10.9
+Found: react@18.2.0
+node_modules/react
+  peer react@">=16.8.0" from @emotion/react@11.10.4
+  node_modules/@emotion/react
+    peer @emotion/react@"^11.0.0-rc.0" from @emotion/styled@11.10.4
+    node_modules/@emotion/styled
+      peerOptional @emotion/styled@"^11.3.0" from @mui/material@5.10.9
+      node_modules/@mui/material
+        @mui/material@"^5.10.9" from the root project
+      peerOptional @emotion/styled@"^11.3.0" from @mui/styled-engine@5.10.8
+      node_modules/@mui/styled-engine
+        @mui/styled-engine@"^5.10.8" from @mui/system@5.10.9
+        node_modules/@mui/system
+          @mui/system@"^5.10.9" from @mui/material@5.10.9
+          node_modules/@mui/material
+            @mui/material@"^5.10.9" from the root project
+      peerOptional @emotion/styled@"^11.3.0" from @mui/system@5.10.9
+      node_modules/@mui/system
+        @mui/system@"^5.10.9" from @mui/material@5.10.9
+        node_modules/@mui/material
+          @mui/material@"^5.10.9" from the root project
+      @emotion/styled@"^11.10.4" from the root project
+    peerOptional @emotion/react@"^11.5.0" from @mui/material@5.10.9
+    node_modules/@mui/material
+      @mui/material@"^5.10.9" from the root project
+    peerOptional @emotion/react@"^11.4.1" from @mui/styled-engine@5.10.8
+    node_modules/@mui/styled-engine
+      @mui/styled-engine@"^5.10.8" from @mui/system@5.10.9
+      node_modules/@mui/system
+        @mui/system@"^5.10.9" from @mui/material@5.10.9
+        node_modules/@mui/material
+          @mui/material@"^5.10.9" from the root project
+    peerOptional @emotion/react@"^11.5.0" from @mui/system@5.10.9
+    node_modules/@mui/system
+      @mui/system@"^5.10.9" from @mui/material@5.10.9
+      node_modules/@mui/material
+        @mui/material@"^5.10.9" from the root project
+    @emotion/react@"^11.10.4" from the root project
+  peer react@">=16.8.0" from @emotion/styled@11.10.4
+  node_modules/@emotion/styled
+    peerOptional @emotion/styled@"^11.3.0" from @mui/material@5.10.9
+    node_modules/@mui/material
+      @mui/material@"^5.10.9" from the root project
+    peerOptional @emotion/styled@"^11.3.0" from @mui/styled-engine@5.10.8
+    node_modules/@mui/styled-engine
+      @mui/styled-engine@"^5.10.8" from @mui/system@5.10.9
+      node_modules/@mui/system
+        @mui/system@"^5.10.9" from @mui/material@5.10.9
+        node_modules/@mui/material
+          @mui/material@"^5.10.9" from the root project
+    peerOptional @emotion/styled@"^11.3.0" from @mui/system@5.10.9
+    node_modules/@mui/system
+      @mui/system@"^5.10.9" from @mui/material@5.10.9
+      node_modules/@mui/material
+        @mui/material@"^5.10.9" from the root project
+    @emotion/styled@"^11.10.4" from the root project
+  peer react@">=16.8.0" from @emotion/use-insertion-effect-with-fallbacks@1.0.0
+  node_modules/@emotion/use-insertion-effect-with-fallbacks
+    @emotion/use-insertion-effect-with-fallbacks@"^1.0.0" from @emotion/react@11.10.4
+    node_modules/@emotion/react
+      peer @emotion/react@"^11.0.0-rc.0" from @emotion/styled@11.10.4
+      node_modules/@emotion/styled
+        peerOptional @emotion/styled@"^11.3.0" from @mui/material@5.10.9
+        node_modules/@mui/material
+          @mui/material@"^5.10.9" from the root project
+        peerOptional @emotion/styled@"^11.3.0" from @mui/styled-engine@5.10.8
+        node_modules/@mui/styled-engine
+          @mui/styled-engine@"^5.10.8" from @mui/system@5.10.9
+          node_modules/@mui/system
+            @mui/system@"^5.10.9" from @mui/material@5.10.9
+            node_modules/@mui/material
+              @mui/material@"^5.10.9" from the root project
+        peerOptional @emotion/styled@"^11.3.0" from @mui/system@5.10.9
+        node_modules/@mui/system
+          @mui/system@"^5.10.9" from @mui/material@5.10.9
+          node_modules/@mui/material
+            @mui/material@"^5.10.9" from the root project
+        @emotion/styled@"^11.10.4" from the root project
+      peerOptional @emotion/react@"^11.5.0" from @mui/material@5.10.9
+      node_modules/@mui/material
+        @mui/material@"^5.10.9" from the root project
+      peerOptional @emotion/react@"^11.4.1" from @mui/styled-engine@5.10.8
+      node_modules/@mui/styled-engine
+        @mui/styled-engine@"^5.10.8" from @mui/system@5.10.9
+        node_modules/@mui/system
+          @mui/system@"^5.10.9" from @mui/material@5.10.9
+          node_modules/@mui/material
+            @mui/material@"^5.10.9" from the root project
+      peerOptional @emotion/react@"^11.5.0" from @mui/system@5.10.9
+      node_modules/@mui/system
+        @mui/system@"^5.10.9" from @mui/material@5.10.9
+        node_modules/@mui/material
+          @mui/material@"^5.10.9" from the root project
+      @emotion/react@"^11.10.4" from the root project
+    @emotion/use-insertion-effect-with-fallbacks@"^1.0.0" from @emotion/styled@11.10.4
+    node_modules/@emotion/styled
+      peerOptional @emotion/styled@"^11.3.0" from @mui/material@5.10.9
+      node_modules/@mui/material
+        @mui/material@"^5.10.9" from the root project
+      peerOptional @emotion/styled@"^11.3.0" from @mui/styled-engine@5.10.8
+      node_modules/@mui/styled-engine
+        @mui/styled-engine@"^5.10.8" from @mui/system@5.10.9
+        node_modules/@mui/system
+          @mui/system@"^5.10.9" from @mui/material@5.10.9
+          node_modules/@mui/material
+            @mui/material@"^5.10.9" from the root project
+      peerOptional @emotion/styled@"^11.3.0" from @mui/system@5.10.9
+      node_modules/@mui/system
+        @mui/system@"^5.10.9" from @mui/material@5.10.9
+        node_modules/@mui/material
+          @mui/material@"^5.10.9" from the root project
+      @emotion/styled@"^11.10.4" from the root project
+  peer react@"^17.0.0 || ^18.0.0" from @mui/base@5.0.0-alpha.101
+  node_modules/@mui/base
+    @mui/base@"5.0.0-alpha.101" from @mui/material@5.10.9
+    node_modules/@mui/material
+      @mui/material@"^5.10.9" from the root project
+  peer react@"^17.0.0 || ^18.0.0" from @mui/material@5.10.9
+  node_modules/@mui/material
+    @mui/material@"^5.10.9" from the root project
+  peer react@"^17.0.0 || ^18.0.0" from @mui/private-theming@5.10.9
+  node_modules/@mui/private-theming
+    @mui/private-theming@"^5.10.9" from @mui/styles@5.10.9
+    node_modules/@mui/styles
+      @mui/styles@"^5.10.9" from the root project
+    @mui/private-theming@"^5.10.9" from @mui/system@5.10.9
+    node_modules/@mui/system
+      @mui/system@"^5.10.9" from @mui/material@5.10.9
+      node_modules/@mui/material
+        @mui/material@"^5.10.9" from the root project
+  peer react@"^17.0.0 || ^18.0.0" from @mui/styled-engine@5.10.8
+  node_modules/@mui/styled-engine
+    @mui/styled-engine@"^5.10.8" from @mui/system@5.10.9
+    node_modules/@mui/system
+      @mui/system@"^5.10.9" from @mui/material@5.10.9
+      node_modules/@mui/material
+        @mui/material@"^5.10.9" from the root project
+  peer react@"^17.0.0 || ^18.0.0" from @mui/system@5.10.9
+  node_modules/@mui/system
+    @mui/system@"^5.10.9" from @mui/material@5.10.9
+    node_modules/@mui/material
+      @mui/material@"^5.10.9" from the root project
+  peer react@"^17.0.0 || ^18.0.0" from @mui/utils@5.10.9
+  node_modules/@mui/utils
+    @mui/utils@"^5.10.9" from @mui/base@5.0.0-alpha.101
+    node_modules/@mui/base
+      @mui/base@"5.0.0-alpha.101" from @mui/material@5.10.9
+      node_modules/@mui/material
+        @mui/material@"^5.10.9" from the root project
+    @mui/utils@"^5.10.9" from @mui/material@5.10.9
+    node_modules/@mui/material
+      @mui/material@"^5.10.9" from the root project
+    @mui/utils@"^5.10.9" from @mui/private-theming@5.10.9
+    node_modules/@mui/private-theming
+      @mui/private-theming@"^5.10.9" from @mui/styles@5.10.9
+      node_modules/@mui/styles
+        @mui/styles@"^5.10.9" from the root project
+      @mui/private-theming@"^5.10.9" from @mui/system@5.10.9
+      node_modules/@mui/system
+        @mui/system@"^5.10.9" from @mui/material@5.10.9
+        node_modules/@mui/material
+          @mui/material@"^5.10.9" from the root project
+    @mui/utils@"^5.10.9" from @mui/styles@5.10.9
+    node_modules/@mui/styles
+      @mui/styles@"^5.10.9" from the root project
+    @mui/utils@"^5.10.9" from @mui/system@5.10.9
+    node_modules/@mui/system
+      @mui/system@"^5.10.9" from @mui/material@5.10.9
+      node_modules/@mui/material
+        @mui/material@"^5.10.9" from the root project
+  peer react@"^17.0.2 || ^18.0.0-0" from next@12.3.1
+  node_modules/next
+    next@"12.3.1" from the root project
+  peer react@"^18.2.0" from react-dom@18.2.0
+  node_modules/react-dom
+    peer react-dom@"^17.0.0 || ^18.0.0" from @mui/base@5.0.0-alpha.101
+    node_modules/@mui/base
+      @mui/base@"5.0.0-alpha.101" from @mui/material@5.10.9
+      node_modules/@mui/material
+        @mui/material@"^5.10.9" from the root project
+    peer react-dom@"^17.0.0 || ^18.0.0" from @mui/material@5.10.9
+    node_modules/@mui/material
+      @mui/material@"^5.10.9" from the root project
+    peer react-dom@"^17.0.2 || ^18.0.0-0" from next@12.3.1
+    node_modules/next
+      next@"12.3.1" from the root project
+    peer react-dom@">=16.6.0" from react-transition-group@4.4.5
+    node_modules/react-transition-group
+      react-transition-group@"^4.4.5" from @mui/material@5.10.9
+      node_modules/@mui/material
+        @mui/material@"^5.10.9" from the root project
+    react-dom@"18.2.0" from the root project
+  peer react@">=16.6.0" from react-transition-group@4.4.5
+  node_modules/react-transition-group
+    react-transition-group@"^4.4.5" from @mui/material@5.10.9
+    node_modules/@mui/material
+      @mui/material@"^5.10.9" from the root project
+  peer react@">= 16.8.0 || 17.x.x || ^18.0.0-0" from styled-jsx@5.0.7
+  node_modules/styled-jsx
+    styled-jsx@"5.0.7" from next@12.3.1
+    node_modules/next
+      next@"12.3.1" from the root project
+  peer react@"^16.8.0 || ^17.0.0 || ^18.0.0" from use-sync-external-store@1.2.0
+  node_modules/use-sync-external-store
+    use-sync-external-store@"1.2.0" from next@12.3.1
+    node_modules/next
+      next@"12.3.1" from the root project
+  react@"18.2.0" from the root project
+
+Could not resolve dependency:
+peer react@"^17.0.0" from @mui/styles@5.10.9
+node_modules/@mui/styles
+  @mui/styles@"^5.10.9" from the root project
+
+Conflicting peer dependency: react@17.0.2
+node_modules/react
+  peer react@"^17.0.0" from @mui/styles@5.10.9
+  node_modules/@mui/styles
+    @mui/styles@"^5.10.9" from the root project
+
+Fix the upstream dependency conflict, or retry
+this command with --force, or --legacy-peer-deps
+to accept an incorrect (and potentially broken) dependency resolution.
+
+Raw JSON explanation object:
+
+{
+  "code": "ERESOLVE",
+  "edge": {
+    "type": "peer",
+    "name": "react",
+    "spec": "^17.0.0",
+    "error": "INVALID",
+    "from": {
+      "name": "@mui/styles",
+      "version": "5.10.9",
+      "location": "node_modules/@mui/styles",
+      "isWorkspace": false,
+      "dependents": [
+        {
+          "type": "prod",
+          "name": "@mui/styles",
+          "spec": "^5.10.9",
+          "from": {
+            "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+          }
+        }
+      ]
+    }
+  },
+  "dep": {
+    "name": "react",
+    "version": "17.0.2",
+    "whileInstalling": {
+      "name": "@mui/styles",
+      "version": "5.10.9",
+      "path": "C:\\Users\\Edwin Henriquez\\amazon-app\\node_modules\\@mui\\styles"
+    },
+    "location": "node_modules/react",
+    "isWorkspace": false,
+    "dependents": [
+      {
+        "type": "peer",
+        "name": "react",
+        "spec": "^17.0.0",
+        "error": "INVALID",
+        "from": {
+          "name": "@mui/styles",
+          "version": "5.10.9",
+          "location": "node_modules/@mui/styles",
+          "isWorkspace": false,
+          "dependents": [
+            {
+              "type": "prod",
+              "name": "@mui/styles",
+              "spec": "^5.10.9",
+              "from": {
+                "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "current": {
+    "name": "react",
+    "version": "18.2.0",
+    "location": "node_modules/react",
+    "isWorkspace": false,
+    "dependents": [
+      {
+        "type": "peer",
+        "name": "react",
+        "spec": ">=16.8.0",
+        "from": {
+          "name": "@emotion/react",
+          "version": "11.10.4",
+          "location": "node_modules/@emotion/react",
+          "isWorkspace": false,
+          "dependents": [
+            {
+              "type": "peer",
+              "name": "@emotion/react",
+              "spec": "^11.0.0-rc.0",
+              "from": {
+                "name": "@emotion/styled",
+                "version": "11.10.4",
+                "location": "node_modules/@emotion/styled",
+                "isWorkspace": false,
+                "dependents": [
+                  {
+                    "type": "peerOptional",
+                    "name": "@emotion/styled",
+                    "spec": "^11.3.0",
+                    "from": {
+                      "name": "@mui/material",
+                      "version": "5.10.9",
+                      "location": "node_modules/@mui/material",
+                      "isWorkspace": false,
+                      "dependents": [
+                        {
+                          "type": "prod",
+                          "name": "@mui/material",
+                          "spec": "^5.10.9",
+                          "from": {
+                            "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "peerOptional",
+                    "name": "@emotion/styled",
+                    "spec": "^11.3.0",
+                    "from": {
+                      "name": "@mui/styled-engine",
+                      "version": "5.10.8",
+                      "location": "node_modules/@mui/styled-engine",
+                      "isWorkspace": false,
+                      "dependents": [
+                        {
+                          "type": "prod",
+                          "name": "@mui/styled-engine",
+                          "spec": "^5.10.8",
+                          "from": {
+                            "name": "@mui/system",
+                            "version": "5.10.9",
+                            "location": "node_modules/@mui/system",
+                            "isWorkspace": false,
+                            "dependents": [
+                              {
+                                "type": "prod",
+                                "name": "@mui/system",
+                                "spec": "^5.10.9",
+                                "from": {
+                                  "name": "@mui/material",
+                                  "version": "5.10.9",
+                                  "location": "node_modules/@mui/material",
+                                  "isWorkspace": false,
+                                  "dependents": [
+                                    {
+                                      "type": "prod",
+                                      "name": "@mui/material",
+                                      "spec": "^5.10.9",
+                                      "from": {
+                                        "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                                      }
+                                    }
+                                  ]
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "peerOptional",
+                    "name": "@emotion/styled",
+                    "spec": "^11.3.0",
+                    "from": {
+                      "name": "@mui/system",
+                      "version": "5.10.9",
+                      "location": "node_modules/@mui/system",
+                      "isWorkspace": false,
+                      "dependents": [
+                        {
+                          "type": "prod",
+                          "name": "@mui/system",
+                          "spec": "^5.10.9",
+                          "from": {
+                            "name": "@mui/material",
+                            "version": "5.10.9",
+                            "location": "node_modules/@mui/material",
+                            "isWorkspace": false,
+                            "dependents": [
+                              {
+                                "type": "prod",
+                                "name": "@mui/material",
+                                "spec": "^5.10.9",
+                                "from": {
+                                  "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "prod",
+                    "name": "@emotion/styled",
+                    "spec": "^11.10.4",
+                    "from": {
+                      "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "peerOptional",
+              "name": "@emotion/react",
+              "spec": "^11.5.0",
+              "from": {
+                "name": "@mui/material",
+                "version": "5.10.9",
+                "location": "node_modules/@mui/material",
+                "isWorkspace": false,
+                "dependents": [
+                  {
+                    "type": "prod",
+                    "name": "@mui/material",
+                    "spec": "^5.10.9",
+                    "from": {
+                      "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "peerOptional",
+              "name": "@emotion/react",
+              "spec": "^11.4.1",
+              "from": {
+                "name": "@mui/styled-engine",
+                "version": "5.10.8",
+                "location": "node_modules/@mui/styled-engine",
+                "isWorkspace": false,
+                "dependents": [
+                  {
+                    "type": "prod",
+                    "name": "@mui/styled-engine",
+                    "spec": "^5.10.8",
+                    "from": {
+                      "name": "@mui/system",
+                      "version": "5.10.9",
+                      "location": "node_modules/@mui/system",
+                      "isWorkspace": false,
+                      "dependents": [
+                        {
+                          "type": "prod",
+                          "name": "@mui/system",
+                          "spec": "^5.10.9",
+                          "from": {
+                            "name": "@mui/material",
+                            "version": "5.10.9",
+                            "location": "node_modules/@mui/material",
+                            "isWorkspace": false,
+                            "dependents": [
+                              {
+                                "type": "prod",
+                                "name": "@mui/material",
+                                "spec": "^5.10.9",
+                                "from": {
+                                  "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "peerOptional",
+              "name": "@emotion/react",
+              "spec": "^11.5.0",
+              "from": {
+                "name": "@mui/system",
+                "version": "5.10.9",
+                "location": "node_modules/@mui/system",
+                "isWorkspace": false,
+                "dependents": [
+                  {
+                    "type": "prod",
+                    "name": "@mui/system",
+                    "spec": "^5.10.9",
+                    "from": {
+                      "name": "@mui/material",
+                      "version": "5.10.9",
+                      "location": "node_modules/@mui/material",
+                      "isWorkspace": false,
+                      "dependents": [
+                        {
+                          "type": "prod",
+                          "name": "@mui/material",
+                          "spec": "^5.10.9",
+                          "from": {
+                            "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "prod",
+              "name": "@emotion/react",
+              "spec": "^11.10.4",
+              "from": {
+                "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "peer",
+        "name": "react",
+        "spec": ">=16.8.0",
+        "from": {
+          "name": "@emotion/styled",
+          "version": "11.10.4",
+          "location": "node_modules/@emotion/styled",
+          "isWorkspace": false,
+          "dependents": [
+            {
+              "type": "peerOptional",
+              "name": "@emotion/styled",
+              "spec": "^11.3.0",
+              "from": {
+                "name": "@mui/material",
+                "version": "5.10.9",
+                "location": "node_modules/@mui/material",
+                "isWorkspace": false,
+                "dependents": [
+                  {
+                    "type": "prod",
+                    "name": "@mui/material",
+                    "spec": "^5.10.9",
+                    "from": {
+                      "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "peerOptional",
+              "name": "@emotion/styled",
+              "spec": "^11.3.0",
+              "from": {
+                "name": "@mui/styled-engine",
+                "version": "5.10.8",
+                "location": "node_modules/@mui/styled-engine",
+                "isWorkspace": false,
+                "dependents": [
+                  {
+                    "type": "prod",
+                    "name": "@mui/styled-engine",
+                    "spec": "^5.10.8",
+                    "from": {
+                      "name": "@mui/system",
+                      "version": "5.10.9",
+                      "location": "node_modules/@mui/system",
+                      "isWorkspace": false,
+                      "dependents": [
+                        {
+                          "type": "prod",
+                          "name": "@mui/system",
+                          "spec": "^5.10.9",
+                          "from": {
+                            "name": "@mui/material",
+                            "version": "5.10.9",
+                            "location": "node_modules/@mui/material",
+                            "isWorkspace": false,
+                            "dependents": [
+                              {
+                                "type": "prod",
+                                "name": "@mui/material",
+                                "spec": "^5.10.9",
+                                "from": {
+                                  "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "peerOptional",
+              "name": "@emotion/styled",
+              "spec": "^11.3.0",
+              "from": {
+                "name": "@mui/system",
+                "version": "5.10.9",
+                "location": "node_modules/@mui/system",
+                "isWorkspace": false,
+                "dependents": [
+                  {
+                    "type": "prod",
+                    "name": "@mui/system",
+                    "spec": "^5.10.9",
+                    "from": {
+                      "name": "@mui/material",
+                      "version": "5.10.9",
+                      "location": "node_modules/@mui/material",
+                      "isWorkspace": false,
+                      "dependents": [
+                        {
+                          "type": "prod",
+                          "name": "@mui/material",
+                          "spec": "^5.10.9",
+                          "from": {
+                            "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "prod",
+              "name": "@emotion/styled",
+              "spec": "^11.10.4",
+              "from": {
+                "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "peer",
+        "name": "react",
+        "spec": ">=16.8.0",
+        "from": {
+          "name": "@emotion/use-insertion-effect-with-fallbacks",
+          "version": "1.0.0",
+          "location": "node_modules/@emotion/use-insertion-effect-with-fallbacks",
+          "isWorkspace": false,
+          "dependents": [
+            {
+              "type": "prod",
+              "name": "@emotion/use-insertion-effect-with-fallbacks",
+              "spec": "^1.0.0",
+              "from": {
+                "name": "@emotion/react",
+                "version": "11.10.4",
+                "location": "node_modules/@emotion/react",
+                "isWorkspace": false,
+                "dependents": [
+                  {
+                    "type": "peer",
+                    "name": "@emotion/react",
+                    "spec": "^11.0.0-rc.0",
+                    "from": {
+                      "name": "@emotion/styled",
+                      "version": "11.10.4",
+                      "location": "node_modules/@emotion/styled",
+                      "isWorkspace": false,
+                      "dependents": [
+                        {
+                          "type": "peerOptional",
+                          "name": "@emotion/styled",
+                          "spec": "^11.3.0",
+                          "from": {
+                            "name": "@mui/material",
+                            "version": "5.10.9",
+                            "location": "node_modules/@mui/material",
+                            "isWorkspace": false,
+                            "dependents": [
+                              {
+                                "type": "prod",
+                                "name": "@mui/material",
+                                "spec": "^5.10.9",
+                                "from": {
+                                  "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "type": "peerOptional",
+                          "name": "@emotion/styled",
+                          "spec": "^11.3.0",
+                          "from": {
+                            "name": "@mui/styled-engine",
+                            "version": "5.10.8",
+                            "location": "node_modules/@mui/styled-engine",
+                            "isWorkspace": false,
+                            "dependents": [
+                              {
+                                "type": "prod",
+                                "name": "@mui/styled-engine",
+                                "spec": "^5.10.8",
+                                "from": {
+                                  "name": "@mui/system",
+                                  "version": "5.10.9",
+                                  "location": "node_modules/@mui/system",
+                                  "isWorkspace": false,
+                                  "dependents": [
+                                    {
+                                      "type": "prod",
+                                      "name": "@mui/system",
+                                      "spec": "^5.10.9",
+                                      "from": {
+                                        "name": "@mui/material",
+                                        "version": "5.10.9",
+                                        "location": "node_modules/@mui/material",
+                                        "isWorkspace": false,
+                                        "dependents": [
+                                          {
+                                            "type": "prod",
+                                            "name": "@mui/material",
+                                            "spec": "^5.10.9",
+                                            "from": {
+                                              "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    }
+                                  ]
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "type": "peerOptional",
+                          "name": "@emotion/styled",
+                          "spec": "^11.3.0",
+                          "from": {
+                            "name": "@mui/system",
+                            "version": "5.10.9",
+                            "location": "node_modules/@mui/system",
+                            "isWorkspace": false,
+                            "dependents": [
+                              {
+                                "type": "prod",
+                                "name": "@mui/system",
+                                "spec": "^5.10.9",
+                                "from": {
+                                  "name": "@mui/material",
+                                  "version": "5.10.9",
+                                  "location": "node_modules/@mui/material",
+                                  "isWorkspace": false,
+                                  "dependents": [
+                                    {
+                                      "type": "prod",
+                                      "name": "@mui/material",
+                                      "spec": "^5.10.9",
+                                      "from": {
+                                        "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                                      }
+                                    }
+                                  ]
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "type": "prod",
+                          "name": "@emotion/styled",
+                          "spec": "^11.10.4",
+                          "from": {
+                            "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "peerOptional",
+                    "name": "@emotion/react",
+                    "spec": "^11.5.0",
+                    "from": {
+                      "name": "@mui/material",
+                      "version": "5.10.9",
+                      "location": "node_modules/@mui/material",
+                      "isWorkspace": false,
+                      "dependents": [
+                        {
+                          "type": "prod",
+                          "name": "@mui/material",
+                          "spec": "^5.10.9",
+                          "from": {
+                            "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "peerOptional",
+                    "name": "@emotion/react",
+                    "spec": "^11.4.1",
+                    "from": {
+                      "name": "@mui/styled-engine",
+                      "version": "5.10.8",
+                      "location": "node_modules/@mui/styled-engine",
+                      "isWorkspace": false,
+                      "dependents": [
+                        {
+                          "type": "prod",
+                          "name": "@mui/styled-engine",
+                          "spec": "^5.10.8",
+                          "from": {
+                            "name": "@mui/system",
+                            "version": "5.10.9",
+                            "location": "node_modules/@mui/system",
+                            "isWorkspace": false,
+                            "dependents": [
+                              {
+                                "type": "prod",
+                                "name": "@mui/system",
+                                "spec": "^5.10.9",
+                                "from": {
+                                  "name": "@mui/material",
+                                  "version": "5.10.9",
+                                  "location": "node_modules/@mui/material",
+                                  "isWorkspace": false,
+                                  "dependents": [
+                                    {
+                                      "type": "prod",
+                                      "name": "@mui/material",
+                                      "spec": "^5.10.9",
+                                      "from": {
+                                        "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                                      }
+                                    }
+                                  ]
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "peerOptional",
+                    "name": "@emotion/react",
+                    "spec": "^11.5.0",
+                    "from": {
+                      "name": "@mui/system",
+                      "version": "5.10.9",
+                      "location": "node_modules/@mui/system",
+                      "isWorkspace": false,
+                      "dependents": [
+                        {
+                          "type": "prod",
+                          "name": "@mui/system",
+                          "spec": "^5.10.9",
+                          "from": {
+                            "name": "@mui/material",
+                            "version": "5.10.9",
+                            "location": "node_modules/@mui/material",
+                            "isWorkspace": false,
+                            "dependents": [
+                              {
+                                "type": "prod",
+                                "name": "@mui/material",
+                                "spec": "^5.10.9",
+                                "from": {
+                                  "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "prod",
+                    "name": "@emotion/react",
+                    "spec": "^11.10.4",
+                    "from": {
+                      "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "prod",
+              "name": "@emotion/use-insertion-effect-with-fallbacks",
+              "spec": "^1.0.0",
+              "from": {
+                "name": "@emotion/styled",
+                "version": "11.10.4",
+                "location": "node_modules/@emotion/styled",
+                "isWorkspace": false,
+                "dependents": [
+                  {
+                    "type": "peerOptional",
+                    "name": "@emotion/styled",
+                    "spec": "^11.3.0",
+                    "from": {
+                      "name": "@mui/material",
+                      "version": "5.10.9",
+                      "location": "node_modules/@mui/material",
+                      "isWorkspace": false,
+                      "dependents": [
+                        {
+                          "type": "prod",
+                          "name": "@mui/material",
+                          "spec": "^5.10.9",
+                          "from": {
+                            "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "peerOptional",
+                    "name": "@emotion/styled",
+                    "spec": "^11.3.0",
+                    "from": {
+                      "name": "@mui/styled-engine",
+                      "version": "5.10.8",
+                      "location": "node_modules/@mui/styled-engine",
+                      "isWorkspace": false,
+                      "dependents": [
+                        {
+                          "type": "prod",
+                          "name": "@mui/styled-engine",
+                          "spec": "^5.10.8",
+                          "from": {
+                            "name": "@mui/system",
+                            "version": "5.10.9",
+                            "location": "node_modules/@mui/system",
+                            "isWorkspace": false,
+                            "dependents": [
+                              {
+                                "type": "prod",
+                                "name": "@mui/system",
+                                "spec": "^5.10.9",
+                                "from": {
+                                  "name": "@mui/material",
+                                  "version": "5.10.9",
+                                  "location": "node_modules/@mui/material",
+                                  "isWorkspace": false,
+                                  "dependents": [
+                                    {
+                                      "type": "prod",
+                                      "name": "@mui/material",
+                                      "spec": "^5.10.9",
+                                      "from": {
+                                        "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                                      }
+                                    }
+                                  ]
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "peerOptional",
+                    "name": "@emotion/styled",
+                    "spec": "^11.3.0",
+                    "from": {
+                      "name": "@mui/system",
+                      "version": "5.10.9",
+                      "location": "node_modules/@mui/system",
+                      "isWorkspace": false,
+                      "dependents": [
+                        {
+                          "type": "prod",
+                          "name": "@mui/system",
+                          "spec": "^5.10.9",
+                          "from": {
+                            "name": "@mui/material",
+                            "version": "5.10.9",
+                            "location": "node_modules/@mui/material",
+                            "isWorkspace": false,
+                            "dependents": [
+                              {
+                                "type": "prod",
+                                "name": "@mui/material",
+                                "spec": "^5.10.9",
+                                "from": {
+                                  "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "prod",
+                    "name": "@emotion/styled",
+                    "spec": "^11.10.4",
+                    "from": {
+                      "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "peer",
+        "name": "react",
+        "spec": "^17.0.0 || ^18.0.0",
+        "from": {
+          "name": "@mui/base",
+          "version": "5.0.0-alpha.101",
+          "location": "node_modules/@mui/base",
+          "isWorkspace": false,
+          "dependents": [
+            {
+              "type": "prod",
+              "name": "@mui/base",
+              "spec": "5.0.0-alpha.101",
+              "from": {
+                "name": "@mui/material",
+                "version": "5.10.9",
+                "location": "node_modules/@mui/material",
+                "isWorkspace": false,
+                "dependents": [
+                  {
+                    "type": "prod",
+                    "name": "@mui/material",
+                    "spec": "^5.10.9",
+                    "from": {
+                      "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "peer",
+        "name": "react",
+        "spec": "^17.0.0 || ^18.0.0",
+        "from": {
+          "name": "@mui/material",
+          "version": "5.10.9",
+          "location": "node_modules/@mui/material",
+          "isWorkspace": false,
+          "dependents": [
+            {
+              "type": "prod",
+              "name": "@mui/material",
+              "spec": "^5.10.9",
+              "from": {
+                "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "peer",
+        "name": "react",
+        "spec": "^17.0.0 || ^18.0.0",
+        "from": {
+          "name": "@mui/private-theming",
+          "version": "5.10.9",
+          "location": "node_modules/@mui/private-theming",
+          "isWorkspace": false,
+          "dependents": [
+            {
+              "type": "prod",
+              "name": "@mui/private-theming",
+              "spec": "^5.10.9",
+              "from": {
+                "name": "@mui/styles",
+                "version": "5.10.9",
+                "location": "node_modules/@mui/styles",
+                "isWorkspace": false,
+                "dependents": [
+                  {
+                    "type": "prod",
+                    "name": "@mui/styles",
+                    "spec": "^5.10.9",
+                    "from": {
+                      "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "prod",
+              "name": "@mui/private-theming",
+              "spec": "^5.10.9",
+              "from": {
+                "name": "@mui/system",
+                "version": "5.10.9",
+                "location": "node_modules/@mui/system",
+                "isWorkspace": false,
+                "dependents": [
+                  {
+                    "type": "prod",
+                    "name": "@mui/system",
+                    "spec": "^5.10.9",
+                    "from": {
+                      "name": "@mui/material",
+                      "version": "5.10.9",
+                      "location": "node_modules/@mui/material",
+                      "isWorkspace": false,
+                      "dependents": [
+                        {
+                          "type": "prod",
+                          "name": "@mui/material",
+                          "spec": "^5.10.9",
+                          "from": {
+                            "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "peer",
+        "name": "react",
+        "spec": "^17.0.0 || ^18.0.0",
+        "from": {
+          "name": "@mui/styled-engine",
+          "version": "5.10.8",
+          "location": "node_modules/@mui/styled-engine",
+          "isWorkspace": false,
+          "dependents": [
+            {
+              "type": "prod",
+              "name": "@mui/styled-engine",
+              "spec": "^5.10.8",
+              "from": {
+                "name": "@mui/system",
+                "version": "5.10.9",
+                "location": "node_modules/@mui/system",
+                "isWorkspace": false,
+                "dependents": [
+                  {
+                    "type": "prod",
+                    "name": "@mui/system",
+                    "spec": "^5.10.9",
+                    "from": {
+                      "name": "@mui/material",
+                      "version": "5.10.9",
+                      "location": "node_modules/@mui/material",
+                      "isWorkspace": false,
+                      "dependents": [
+                        {
+                          "type": "prod",
+                          "name": "@mui/material",
+                          "spec": "^5.10.9",
+                          "from": {
+                            "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "peer",
+        "name": "react",
+        "spec": "^17.0.0 || ^18.0.0",
+        "from": {
+          "name": "@mui/system",
+          "version": "5.10.9",
+          "location": "node_modules/@mui/system",
+          "isWorkspace": false,
+          "dependents": [
+            {
+              "type": "prod",
+              "name": "@mui/system",
+              "spec": "^5.10.9",
+              "from": {
+                "name": "@mui/material",
+                "version": "5.10.9",
+                "location": "node_modules/@mui/material",
+                "isWorkspace": false,
+                "dependents": [
+                  {
+                    "type": "prod",
+                    "name": "@mui/material",
+                    "spec": "^5.10.9",
+                    "from": {
+                      "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "peer",
+        "name": "react",
+        "spec": "^17.0.0 || ^18.0.0",
+        "from": {
+          "name": "@mui/utils",
+          "version": "5.10.9",
+          "location": "node_modules/@mui/utils",
+          "isWorkspace": false,
+          "dependents": [
+            {
+              "type": "prod",
+              "name": "@mui/utils",
+              "spec": "^5.10.9",
+              "from": {
+                "name": "@mui/base",
+                "version": "5.0.0-alpha.101",
+                "location": "node_modules/@mui/base",
+                "isWorkspace": false,
+                "dependents": [
+                  {
+                    "type": "prod",
+                    "name": "@mui/base",
+                    "spec": "5.0.0-alpha.101",
+                    "from": {
+                      "name": "@mui/material",
+                      "version": "5.10.9",
+                      "location": "node_modules/@mui/material",
+                      "isWorkspace": false,
+                      "dependents": [
+                        {
+                          "type": "prod",
+                          "name": "@mui/material",
+                          "spec": "^5.10.9",
+                          "from": {
+                            "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "prod",
+              "name": "@mui/utils",
+              "spec": "^5.10.9",
+              "from": {
+                "name": "@mui/material",
+                "version": "5.10.9",
+                "location": "node_modules/@mui/material",
+                "isWorkspace": false,
+                "dependents": [
+                  {
+                    "type": "prod",
+                    "name": "@mui/material",
+                    "spec": "^5.10.9",
+                    "from": {
+                      "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "prod",
+              "name": "@mui/utils",
+              "spec": "^5.10.9",
+              "from": {
+                "name": "@mui/private-theming",
+                "version": "5.10.9",
+                "location": "node_modules/@mui/private-theming",
+                "isWorkspace": false,
+                "dependents": [
+                  {
+                    "type": "prod",
+                    "name": "@mui/private-theming",
+                    "spec": "^5.10.9",
+                    "from": {
+                      "name": "@mui/styles",
+                      "version": "5.10.9",
+                      "location": "node_modules/@mui/styles",
+                      "isWorkspace": false,
+                      "dependents": [
+                        {
+                          "type": "prod",
+                          "name": "@mui/styles",
+                          "spec": "^5.10.9",
+                          "from": {
+                            "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "type": "prod",
+                    "name": "@mui/private-theming",
+                    "spec": "^5.10.9",
+                    "from": {
+                      "name": "@mui/system",
+                      "version": "5.10.9",
+                      "location": "node_modules/@mui/system",
+                      "isWorkspace": false,
+                      "dependents": [
+                        {
+                          "type": "prod",
+                          "name": "@mui/system",
+                          "spec": "^5.10.9",
+                          "from": {
+                            "name": "@mui/material",
+                            "version": "5.10.9",
+                            "location": "node_modules/@mui/material",
+                            "isWorkspace": false,
+                            "dependents": [
+                              {
+                                "type": "prod",
+                                "name": "@mui/material",
+                                "spec": "^5.10.9",
+                                "from": {
+                                  "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "prod",
+              "name": "@mui/utils",
+              "spec": "^5.10.9",
+              "from": {
+                "name": "@mui/styles",
+                "version": "5.10.9",
+                "location": "node_modules/@mui/styles",
+                "isWorkspace": false,
+                "dependents": [
+                  {
+                    "type": "prod",
+                    "name": "@mui/styles",
+                    "spec": "^5.10.9",
+                    "from": {
+                      "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "prod",
+              "name": "@mui/utils",
+              "spec": "^5.10.9",
+              "from": {
+                "name": "@mui/system",
+                "version": "5.10.9",
+                "location": "node_modules/@mui/system",
+                "isWorkspace": false,
+                "dependents": [
+                  {
+                    "type": "prod",
+                    "name": "@mui/system",
+                    "spec": "^5.10.9",
+                    "from": {
+                      "name": "@mui/material",
+                      "version": "5.10.9",
+                      "location": "node_modules/@mui/material",
+                      "isWorkspace": false,
+                      "dependents": [
+                        {
+                          "type": "prod",
+                          "name": "@mui/material",
+                          "spec": "^5.10.9",
+                          "from": {
+                            "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "peer",
+        "name": "react",
+        "spec": "^17.0.2 || ^18.0.0-0",
+        "from": {
+          "name": "next",
+          "version": "12.3.1",
+          "location": "node_modules/next",
+          "isWorkspace": false,
+          "dependents": [
+            {
+              "type": "prod",
+              "name": "next",
+              "spec": "12.3.1",
+              "from": {
+                "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "peer",
+        "name": "react",
+        "spec": "^18.2.0",
+        "from": {
+          "name": "react-dom",
+          "version": "18.2.0",
+          "location": "node_modules/react-dom",
+          "isWorkspace": false,
+          "dependents": [
+            {
+              "type": "peer",
+              "name": "react-dom",
+              "spec": "^17.0.0 || ^18.0.0",
+              "from": {
+                "name": "@mui/base",
+                "version": "5.0.0-alpha.101",
+                "location": "node_modules/@mui/base",
+                "isWorkspace": false,
+                "dependents": [
+                  {
+                    "type": "prod",
+                    "name": "@mui/base",
+                    "spec": "5.0.0-alpha.101",
+                    "from": {
+                      "name": "@mui/material",
+                      "version": "5.10.9",
+                      "location": "node_modules/@mui/material",
+                      "isWorkspace": false,
+                      "dependents": [
+                        {
+                          "type": "prod",
+                          "name": "@mui/material",
+                          "spec": "^5.10.9",
+                          "from": {
+                            "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "peer",
+              "name": "react-dom",
+              "spec": "^17.0.0 || ^18.0.0",
+              "from": {
+                "name": "@mui/material",
+                "version": "5.10.9",
+                "location": "node_modules/@mui/material",
+                "isWorkspace": false,
+                "dependents": [
+                  {
+                    "type": "prod",
+                    "name": "@mui/material",
+                    "spec": "^5.10.9",
+                    "from": {
+                      "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "peer",
+              "name": "react-dom",
+              "spec": "^17.0.2 || ^18.0.0-0",
+              "from": {
+                "name": "next",
+                "version": "12.3.1",
+                "location": "node_modules/next",
+                "isWorkspace": false,
+                "dependents": [
+                  {
+                    "type": "prod",
+                    "name": "next",
+                    "spec": "12.3.1",
+                    "from": {
+                      "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "peer",
+              "name": "react-dom",
+              "spec": ">=16.6.0",
+              "from": {
+                "name": "react-transition-group",
+                "version": "4.4.5",
+                "location": "node_modules/react-transition-group",
+                "isWorkspace": false,
+                "dependents": [
+                  {
+                    "type": "prod",
+                    "name": "react-transition-group",
+                    "spec": "^4.4.5",
+                    "from": {
+                      "name": "@mui/material",
+                      "version": "5.10.9",
+                      "location": "node_modules/@mui/material",
+                      "isWorkspace": false,
+                      "dependents": [
+                        {
+                          "type": "prod",
+                          "name": "@mui/material",
+                          "spec": "^5.10.9",
+                          "from": {
+                            "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "prod",
+              "name": "react-dom",
+              "spec": "18.2.0",
+              "from": {
+                "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "peer",
+        "name": "react",
+        "spec": ">=16.6.0",
+        "from": {
+          "name": "react-transition-group",
+          "version": "4.4.5",
+          "location": "node_modules/react-transition-group",
+          "isWorkspace": false,
+          "dependents": [
+            {
+              "type": "prod",
+              "name": "react-transition-group",
+              "spec": "^4.4.5",
+              "from": {
+                "name": "@mui/material",
+                "version": "5.10.9",
+                "location": "node_modules/@mui/material",
+                "isWorkspace": false,
+                "dependents": [
+                  {
+                    "type": "prod",
+                    "name": "@mui/material",
+                    "spec": "^5.10.9",
+                    "from": {
+                      "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "peer",
+        "name": "react",
+        "spec": ">= 16.8.0 || 17.x.x || ^18.0.0-0",
+        "from": {
+          "name": "styled-jsx",
+          "version": "5.0.7",
+          "location": "node_modules/styled-jsx",
+          "isWorkspace": false,
+          "dependents": [
+            {
+              "type": "prod",
+              "name": "styled-jsx",
+              "spec": "5.0.7",
+              "from": {
+                "name": "next",
+                "version": "12.3.1",
+                "location": "node_modules/next",
+                "isWorkspace": false,
+                "dependents": [
+                  {
+                    "type": "prod",
+                    "name": "next",
+                    "spec": "12.3.1",
+                    "from": {
+                      "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "peer",
+        "name": "react",
+        "spec": "^16.8.0 || ^17.0.0 || ^18.0.0",
+        "from": {
+          "name": "use-sync-external-store",
+          "version": "1.2.0",
+          "location": "node_modules/use-sync-external-store",
+          "isWorkspace": false,
+          "dependents": [
+            {
+              "type": "prod",
+              "name": "use-sync-external-store",
+              "spec": "1.2.0",
+              "from": {
+                "name": "next",
+                "version": "12.3.1",
+                "location": "node_modules/next",
+                "isWorkspace": false,
+                "dependents": [
+                  {
+                    "type": "prod",
+                    "name": "next",
+                    "spec": "12.3.1",
+                    "from": {
+                      "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "prod",
+        "name": "react",
+        "spec": "18.2.0",
+        "from": {
+          "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+        }
+      }
+    ]
+  },
+  "peerConflict": {
+    "current": {
+      "name": "react",
+      "version": "18.2.0",
+      "location": "node_modules/react",
+      "isWorkspace": false,
+      "dependents": [
+        {
+          "type": "peer",
+          "name": "react",
+          "spec": ">=16.8.0",
+          "from": {
+            "name": "@emotion/react",
+            "version": "11.10.4",
+            "location": "node_modules/@emotion/react",
+            "isWorkspace": false,
+            "dependents": [
+              {
+                "type": "peer",
+                "name": "@emotion/react",
+                "spec": "^11.0.0-rc.0",
+                "from": {
+                  "name": "@emotion/styled",
+                  "version": "11.10.4",
+                  "location": "node_modules/@emotion/styled",
+                  "isWorkspace": false,
+                  "dependents": [
+                    {
+                      "type": "peerOptional",
+                      "name": "@emotion/styled",
+                      "spec": "^11.3.0",
+                      "from": {
+                        "name": "@mui/material",
+                        "version": "5.10.9",
+                        "location": "node_modules/@mui/material",
+                        "isWorkspace": false,
+                        "dependents": [
+                          {
+                            "type": "prod",
+                            "name": "@mui/material",
+                            "spec": "^5.10.9",
+                            "from": {
+                              "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "type": "peerOptional",
+                      "name": "@emotion/styled",
+                      "spec": "^11.3.0",
+                      "from": {
+                        "name": "@mui/styled-engine",
+                        "version": "5.10.8",
+                        "location": "node_modules/@mui/styled-engine",
+                        "isWorkspace": false,
+                        "dependents": [
+                          {
+                            "type": "prod",
+                            "name": "@mui/styled-engine",
+                            "spec": "^5.10.8",
+                            "from": {
+                              "name": "@mui/system",
+                              "version": "5.10.9",
+                              "location": "node_modules/@mui/system",
+                              "isWorkspace": false,
+                              "dependents": [
+                                {
+                                  "type": "prod",
+                                  "name": "@mui/system",
+                                  "spec": "^5.10.9",
+                                  "from": {
+                                    "name": "@mui/material",
+                                    "version": "5.10.9",
+                                    "location": "node_modules/@mui/material",
+                                    "isWorkspace": false,
+                                    "dependents": [
+                                      {
+                                        "type": "prod",
+                                        "name": "@mui/material",
+                                        "spec": "^5.10.9",
+                                        "from": {
+                                          "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                                        }
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "type": "peerOptional",
+                      "name": "@emotion/styled",
+                      "spec": "^11.3.0",
+                      "from": {
+                        "name": "@mui/system",
+                        "version": "5.10.9",
+                        "location": "node_modules/@mui/system",
+                        "isWorkspace": false,
+                        "dependents": [
+                          {
+                            "type": "prod",
+                            "name": "@mui/system",
+                            "spec": "^5.10.9",
+                            "from": {
+                              "name": "@mui/material",
+                              "version": "5.10.9",
+                              "location": "node_modules/@mui/material",
+                              "isWorkspace": false,
+                              "dependents": [
+                                {
+                                  "type": "prod",
+                                  "name": "@mui/material",
+                                  "spec": "^5.10.9",
+                                  "from": {
+                                    "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "type": "prod",
+                      "name": "@emotion/styled",
+                      "spec": "^11.10.4",
+                      "from": {
+                        "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "peerOptional",
+                "name": "@emotion/react",
+                "spec": "^11.5.0",
+                "from": {
+                  "name": "@mui/material",
+                  "version": "5.10.9",
+                  "location": "node_modules/@mui/material",
+                  "isWorkspace": false,
+                  "dependents": [
+                    {
+                      "type": "prod",
+                      "name": "@mui/material",
+                      "spec": "^5.10.9",
+                      "from": {
+                        "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "peerOptional",
+                "name": "@emotion/react",
+                "spec": "^11.4.1",
+                "from": {
+                  "name": "@mui/styled-engine",
+                  "version": "5.10.8",
+                  "location": "node_modules/@mui/styled-engine",
+                  "isWorkspace": false,
+                  "dependents": [
+                    {
+                      "type": "prod",
+                      "name": "@mui/styled-engine",
+                      "spec": "^5.10.8",
+                      "from": {
+                        "name": "@mui/system",
+                        "version": "5.10.9",
+                        "location": "node_modules/@mui/system",
+                        "isWorkspace": false,
+                        "dependents": [
+                          {
+                            "type": "prod",
+                            "name": "@mui/system",
+                            "spec": "^5.10.9",
+                            "from": {
+                              "name": "@mui/material",
+                              "version": "5.10.9",
+                              "location": "node_modules/@mui/material",
+                              "isWorkspace": false,
+                              "dependents": [
+                                {
+                                  "type": "prod",
+                                  "name": "@mui/material",
+                                  "spec": "^5.10.9",
+                                  "from": {
+                                    "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "peerOptional",
+                "name": "@emotion/react",
+                "spec": "^11.5.0",
+                "from": {
+                  "name": "@mui/system",
+                  "version": "5.10.9",
+                  "location": "node_modules/@mui/system",
+                  "isWorkspace": false,
+                  "dependents": [
+                    {
+                      "type": "prod",
+                      "name": "@mui/system",
+                      "spec": "^5.10.9",
+                      "from": {
+                        "name": "@mui/material",
+                        "version": "5.10.9",
+                        "location": "node_modules/@mui/material",
+                        "isWorkspace": false,
+                        "dependents": [
+                          {
+                            "type": "prod",
+                            "name": "@mui/material",
+                            "spec": "^5.10.9",
+                            "from": {
+                              "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "prod",
+                "name": "@emotion/react",
+                "spec": "^11.10.4",
+                "from": {
+                  "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "peer",
+          "name": "react",
+          "spec": ">=16.8.0",
+          "from": {
+            "name": "@emotion/styled",
+            "version": "11.10.4",
+            "location": "node_modules/@emotion/styled",
+            "isWorkspace": false,
+            "dependents": [
+              {
+                "type": "peerOptional",
+                "name": "@emotion/styled",
+                "spec": "^11.3.0",
+                "from": {
+                  "name": "@mui/material",
+                  "version": "5.10.9",
+                  "location": "node_modules/@mui/material",
+                  "isWorkspace": false,
+                  "dependents": [
+                    {
+                      "type": "prod",
+                      "name": "@mui/material",
+                      "spec": "^5.10.9",
+                      "from": {
+                        "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "peerOptional",
+                "name": "@emotion/styled",
+                "spec": "^11.3.0",
+                "from": {
+                  "name": "@mui/styled-engine",
+                  "version": "5.10.8",
+                  "location": "node_modules/@mui/styled-engine",
+                  "isWorkspace": false,
+                  "dependents": [
+                    {
+                      "type": "prod",
+                      "name": "@mui/styled-engine",
+                      "spec": "^5.10.8",
+                      "from": {
+                        "name": "@mui/system",
+                        "version": "5.10.9",
+                        "location": "node_modules/@mui/system",
+                        "isWorkspace": false,
+                        "dependents": [
+                          {
+                            "type": "prod",
+                            "name": "@mui/system",
+                            "spec": "^5.10.9",
+                            "from": {
+                              "name": "@mui/material",
+                              "version": "5.10.9",
+                              "location": "node_modules/@mui/material",
+                              "isWorkspace": false,
+                              "dependents": [
+                                {
+                                  "type": "prod",
+                                  "name": "@mui/material",
+                                  "spec": "^5.10.9",
+                                  "from": {
+                                    "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "peerOptional",
+                "name": "@emotion/styled",
+                "spec": "^11.3.0",
+                "from": {
+                  "name": "@mui/system",
+                  "version": "5.10.9",
+                  "location": "node_modules/@mui/system",
+                  "isWorkspace": false,
+                  "dependents": [
+                    {
+                      "type": "prod",
+                      "name": "@mui/system",
+                      "spec": "^5.10.9",
+                      "from": {
+                        "name": "@mui/material",
+                        "version": "5.10.9",
+                        "location": "node_modules/@mui/material",
+                        "isWorkspace": false,
+                        "dependents": [
+                          {
+                            "type": "prod",
+                            "name": "@mui/material",
+                            "spec": "^5.10.9",
+                            "from": {
+                              "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "prod",
+                "name": "@emotion/styled",
+                "spec": "^11.10.4",
+                "from": {
+                  "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "peer",
+          "name": "react",
+          "spec": ">=16.8.0",
+          "from": {
+            "name": "@emotion/use-insertion-effect-with-fallbacks",
+            "version": "1.0.0",
+            "location": "node_modules/@emotion/use-insertion-effect-with-fallbacks",
+            "isWorkspace": false,
+            "dependents": [
+              {
+                "type": "prod",
+                "name": "@emotion/use-insertion-effect-with-fallbacks",
+                "spec": "^1.0.0",
+                "from": {
+                  "name": "@emotion/react",
+                  "version": "11.10.4",
+                  "location": "node_modules/@emotion/react",
+                  "isWorkspace": false,
+                  "dependents": [
+                    {
+                      "type": "peer",
+                      "name": "@emotion/react",
+                      "spec": "^11.0.0-rc.0",
+                      "from": {
+                        "name": "@emotion/styled",
+                        "version": "11.10.4",
+                        "location": "node_modules/@emotion/styled",
+                        "isWorkspace": false,
+                        "dependents": [
+                          {
+                            "type": "peerOptional",
+                            "name": "@emotion/styled",
+                            "spec": "^11.3.0",
+                            "from": {
+                              "name": "@mui/material",
+                              "version": "5.10.9",
+                              "location": "node_modules/@mui/material",
+                              "isWorkspace": false,
+                              "dependents": [
+                                {
+                                  "type": "prod",
+                                  "name": "@mui/material",
+                                  "spec": "^5.10.9",
+                                  "from": {
+                                    "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "type": "peerOptional",
+                            "name": "@emotion/styled",
+                            "spec": "^11.3.0",
+                            "from": {
+                              "name": "@mui/styled-engine",
+                              "version": "5.10.8",
+                              "location": "node_modules/@mui/styled-engine",
+                              "isWorkspace": false,
+                              "dependents": [
+                                {
+                                  "type": "prod",
+                                  "name": "@mui/styled-engine",
+                                  "spec": "^5.10.8",
+                                  "from": {
+                                    "name": "@mui/system",
+                                    "version": "5.10.9",
+                                    "location": "node_modules/@mui/system",
+                                    "isWorkspace": false,
+                                    "dependents": [
+                                      {
+                                        "type": "prod",
+                                        "name": "@mui/system",
+                                        "spec": "^5.10.9",
+                                        "from": {
+                                          "name": "@mui/material",
+                                          "version": "5.10.9",
+                                          "location": "node_modules/@mui/material",
+                                          "isWorkspace": false,
+                                          "dependents": [
+                                            {
+                                              "type": "prod",
+                                              "name": "@mui/material",
+                                              "spec": "^5.10.9",
+                                              "from": {
+                                                "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                                              }
+                                            }
+                                          ]
+                                        }
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "type": "peerOptional",
+                            "name": "@emotion/styled",
+                            "spec": "^11.3.0",
+                            "from": {
+                              "name": "@mui/system",
+                              "version": "5.10.9",
+                              "location": "node_modules/@mui/system",
+                              "isWorkspace": false,
+                              "dependents": [
+                                {
+                                  "type": "prod",
+                                  "name": "@mui/system",
+                                  "spec": "^5.10.9",
+                                  "from": {
+                                    "name": "@mui/material",
+                                    "version": "5.10.9",
+                                    "location": "node_modules/@mui/material",
+                                    "isWorkspace": false,
+                                    "dependents": [
+                                      {
+                                        "type": "prod",
+                                        "name": "@mui/material",
+                                        "spec": "^5.10.9",
+                                        "from": {
+                                          "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                                        }
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "type": "prod",
+                            "name": "@emotion/styled",
+                            "spec": "^11.10.4",
+                            "from": {
+                              "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "type": "peerOptional",
+                      "name": "@emotion/react",
+                      "spec": "^11.5.0",
+                      "from": {
+                        "name": "@mui/material",
+                        "version": "5.10.9",
+                        "location": "node_modules/@mui/material",
+                        "isWorkspace": false,
+                        "dependents": [
+                          {
+                            "type": "prod",
+                            "name": "@mui/material",
+                            "spec": "^5.10.9",
+                            "from": {
+                              "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "type": "peerOptional",
+                      "name": "@emotion/react",
+                      "spec": "^11.4.1",
+                      "from": {
+                        "name": "@mui/styled-engine",
+                        "version": "5.10.8",
+                        "location": "node_modules/@mui/styled-engine",
+                        "isWorkspace": false,
+                        "dependents": [
+                          {
+                            "type": "prod",
+                            "name": "@mui/styled-engine",
+                            "spec": "^5.10.8",
+                            "from": {
+                              "name": "@mui/system",
+                              "version": "5.10.9",
+                              "location": "node_modules/@mui/system",
+                              "isWorkspace": false,
+                              "dependents": [
+                                {
+                                  "type": "prod",
+                                  "name": "@mui/system",
+                                  "spec": "^5.10.9",
+                                  "from": {
+                                    "name": "@mui/material",
+                                    "version": "5.10.9",
+                                    "location": "node_modules/@mui/material",
+                                    "isWorkspace": false,
+                                    "dependents": [
+                                      {
+                                        "type": "prod",
+                                        "name": "@mui/material",
+                                        "spec": "^5.10.9",
+                                        "from": {
+                                          "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                                        }
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "type": "peerOptional",
+                      "name": "@emotion/react",
+                      "spec": "^11.5.0",
+                      "from": {
+                        "name": "@mui/system",
+                        "version": "5.10.9",
+                        "location": "node_modules/@mui/system",
+                        "isWorkspace": false,
+                        "dependents": [
+                          {
+                            "type": "prod",
+                            "name": "@mui/system",
+                            "spec": "^5.10.9",
+                            "from": {
+                              "name": "@mui/material",
+                              "version": "5.10.9",
+                              "location": "node_modules/@mui/material",
+                              "isWorkspace": false,
+                              "dependents": [
+                                {
+                                  "type": "prod",
+                                  "name": "@mui/material",
+                                  "spec": "^5.10.9",
+                                  "from": {
+                                    "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "type": "prod",
+                      "name": "@emotion/react",
+                      "spec": "^11.10.4",
+                      "from": {
+                        "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "prod",
+                "name": "@emotion/use-insertion-effect-with-fallbacks",
+                "spec": "^1.0.0",
+                "from": {
+                  "name": "@emotion/styled",
+                  "version": "11.10.4",
+                  "location": "node_modules/@emotion/styled",
+                  "isWorkspace": false,
+                  "dependents": [
+                    {
+                      "type": "peerOptional",
+                      "name": "@emotion/styled",
+                      "spec": "^11.3.0",
+                      "from": {
+                        "name": "@mui/material",
+                        "version": "5.10.9",
+                        "location": "node_modules/@mui/material",
+                        "isWorkspace": false,
+                        "dependents": [
+                          {
+                            "type": "prod",
+                            "name": "@mui/material",
+                            "spec": "^5.10.9",
+                            "from": {
+                              "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "type": "peerOptional",
+                      "name": "@emotion/styled",
+                      "spec": "^11.3.0",
+                      "from": {
+                        "name": "@mui/styled-engine",
+                        "version": "5.10.8",
+                        "location": "node_modules/@mui/styled-engine",
+                        "isWorkspace": false,
+                        "dependents": [
+                          {
+                            "type": "prod",
+                            "name": "@mui/styled-engine",
+                            "spec": "^5.10.8",
+                            "from": {
+                              "name": "@mui/system",
+                              "version": "5.10.9",
+                              "location": "node_modules/@mui/system",
+                              "isWorkspace": false,
+                              "dependents": [
+                                {
+                                  "type": "prod",
+                                  "name": "@mui/system",
+                                  "spec": "^5.10.9",
+                                  "from": {
+                                    "name": "@mui/material",
+                                    "version": "5.10.9",
+                                    "location": "node_modules/@mui/material",
+                                    "isWorkspace": false,
+                                    "dependents": [
+                                      {
+                                        "type": "prod",
+                                        "name": "@mui/material",
+                                        "spec": "^5.10.9",
+                                        "from": {
+                                          "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                                        }
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "type": "peerOptional",
+                      "name": "@emotion/styled",
+                      "spec": "^11.3.0",
+                      "from": {
+                        "name": "@mui/system",
+                        "version": "5.10.9",
+                        "location": "node_modules/@mui/system",
+                        "isWorkspace": false,
+                        "dependents": [
+                          {
+                            "type": "prod",
+                            "name": "@mui/system",
+                            "spec": "^5.10.9",
+                            "from": {
+                              "name": "@mui/material",
+                              "version": "5.10.9",
+                              "location": "node_modules/@mui/material",
+                              "isWorkspace": false,
+                              "dependents": [
+                                {
+                                  "type": "prod",
+                                  "name": "@mui/material",
+                                  "spec": "^5.10.9",
+                                  "from": {
+                                    "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "type": "prod",
+                      "name": "@emotion/styled",
+                      "spec": "^11.10.4",
+                      "from": {
+                        "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "peer",
+          "name": "react",
+          "spec": "^17.0.0 || ^18.0.0",
+          "from": {
+            "name": "@mui/base",
+            "version": "5.0.0-alpha.101",
+            "location": "node_modules/@mui/base",
+            "isWorkspace": false,
+            "dependents": [
+              {
+                "type": "prod",
+                "name": "@mui/base",
+                "spec": "5.0.0-alpha.101",
+                "from": {
+                  "name": "@mui/material",
+                  "version": "5.10.9",
+                  "location": "node_modules/@mui/material",
+                  "isWorkspace": false,
+                  "dependents": [
+                    {
+                      "type": "prod",
+                      "name": "@mui/material",
+                      "spec": "^5.10.9",
+                      "from": {
+                        "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "peer",
+          "name": "react",
+          "spec": "^17.0.0 || ^18.0.0",
+          "from": {
+            "name": "@mui/material",
+            "version": "5.10.9",
+            "location": "node_modules/@mui/material",
+            "isWorkspace": false,
+            "dependents": [
+              {
+                "type": "prod",
+                "name": "@mui/material",
+                "spec": "^5.10.9",
+                "from": {
+                  "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "peer",
+          "name": "react",
+          "spec": "^17.0.0 || ^18.0.0",
+          "from": {
+            "name": "@mui/private-theming",
+            "version": "5.10.9",
+            "location": "node_modules/@mui/private-theming",
+            "isWorkspace": false,
+            "dependents": [
+              {
+                "type": "prod",
+                "name": "@mui/private-theming",
+                "spec": "^5.10.9",
+                "from": {
+                  "name": "@mui/styles",
+                  "version": "5.10.9",
+                  "location": "node_modules/@mui/styles",
+                  "isWorkspace": false,
+                  "dependents": [
+                    {
+                      "type": "prod",
+                      "name": "@mui/styles",
+                      "spec": "^5.10.9",
+                      "from": {
+                        "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "prod",
+                "name": "@mui/private-theming",
+                "spec": "^5.10.9",
+                "from": {
+                  "name": "@mui/system",
+                  "version": "5.10.9",
+                  "location": "node_modules/@mui/system",
+                  "isWorkspace": false,
+                  "dependents": [
+                    {
+                      "type": "prod",
+                      "name": "@mui/system",
+                      "spec": "^5.10.9",
+                      "from": {
+                        "name": "@mui/material",
+                        "version": "5.10.9",
+                        "location": "node_modules/@mui/material",
+                        "isWorkspace": false,
+                        "dependents": [
+                          {
+                            "type": "prod",
+                            "name": "@mui/material",
+                            "spec": "^5.10.9",
+                            "from": {
+                              "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "peer",
+          "name": "react",
+          "spec": "^17.0.0 || ^18.0.0",
+          "from": {
+            "name": "@mui/styled-engine",
+            "version": "5.10.8",
+            "location": "node_modules/@mui/styled-engine",
+            "isWorkspace": false,
+            "dependents": [
+              {
+                "type": "prod",
+                "name": "@mui/styled-engine",
+                "spec": "^5.10.8",
+                "from": {
+                  "name": "@mui/system",
+                  "version": "5.10.9",
+                  "location": "node_modules/@mui/system",
+                  "isWorkspace": false,
+                  "dependents": [
+                    {
+                      "type": "prod",
+                      "name": "@mui/system",
+                      "spec": "^5.10.9",
+                      "from": {
+                        "name": "@mui/material",
+                        "version": "5.10.9",
+                        "location": "node_modules/@mui/material",
+                        "isWorkspace": false,
+                        "dependents": [
+                          {
+                            "type": "prod",
+                            "name": "@mui/material",
+                            "spec": "^5.10.9",
+                            "from": {
+                              "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "peer",
+          "name": "react",
+          "spec": "^17.0.0 || ^18.0.0",
+          "from": {
+            "name": "@mui/system",
+            "version": "5.10.9",
+            "location": "node_modules/@mui/system",
+            "isWorkspace": false,
+            "dependents": [
+              {
+                "type": "prod",
+                "name": "@mui/system",
+                "spec": "^5.10.9",
+                "from": {
+                  "name": "@mui/material",
+                  "version": "5.10.9",
+                  "location": "node_modules/@mui/material",
+                  "isWorkspace": false,
+                  "dependents": [
+                    {
+                      "type": "prod",
+                      "name": "@mui/material",
+                      "spec": "^5.10.9",
+                      "from": {
+                        "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "peer",
+          "name": "react",
+          "spec": "^17.0.0 || ^18.0.0",
+          "from": {
+            "name": "@mui/utils",
+            "version": "5.10.9",
+            "location": "node_modules/@mui/utils",
+            "isWorkspace": false,
+            "dependents": [
+              {
+                "type": "prod",
+                "name": "@mui/utils",
+                "spec": "^5.10.9",
+                "from": {
+                  "name": "@mui/base",
+                  "version": "5.0.0-alpha.101",
+                  "location": "node_modules/@mui/base",
+                  "isWorkspace": false,
+                  "dependents": [
+                    {
+                      "type": "prod",
+                      "name": "@mui/base",
+                      "spec": "5.0.0-alpha.101",
+                      "from": {
+                        "name": "@mui/material",
+                        "version": "5.10.9",
+                        "location": "node_modules/@mui/material",
+                        "isWorkspace": false,
+                        "dependents": [
+                          {
+                            "type": "prod",
+                            "name": "@mui/material",
+                            "spec": "^5.10.9",
+                            "from": {
+                              "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "prod",
+                "name": "@mui/utils",
+                "spec": "^5.10.9",
+                "from": {
+                  "name": "@mui/material",
+                  "version": "5.10.9",
+                  "location": "node_modules/@mui/material",
+                  "isWorkspace": false,
+                  "dependents": [
+                    {
+                      "type": "prod",
+                      "name": "@mui/material",
+                      "spec": "^5.10.9",
+                      "from": {
+                        "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "prod",
+                "name": "@mui/utils",
+                "spec": "^5.10.9",
+                "from": {
+                  "name": "@mui/private-theming",
+                  "version": "5.10.9",
+                  "location": "node_modules/@mui/private-theming",
+                  "isWorkspace": false,
+                  "dependents": [
+                    {
+                      "type": "prod",
+                      "name": "@mui/private-theming",
+                      "spec": "^5.10.9",
+                      "from": {
+                        "name": "@mui/styles",
+                        "version": "5.10.9",
+                        "location": "node_modules/@mui/styles",
+                        "isWorkspace": false,
+                        "dependents": [
+                          {
+                            "type": "prod",
+                            "name": "@mui/styles",
+                            "spec": "^5.10.9",
+                            "from": {
+                              "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "type": "prod",
+                      "name": "@mui/private-theming",
+                      "spec": "^5.10.9",
+                      "from": {
+                        "name": "@mui/system",
+                        "version": "5.10.9",
+                        "location": "node_modules/@mui/system",
+                        "isWorkspace": false,
+                        "dependents": [
+                          {
+                            "type": "prod",
+                            "name": "@mui/system",
+                            "spec": "^5.10.9",
+                            "from": {
+                              "name": "@mui/material",
+                              "version": "5.10.9",
+                              "location": "node_modules/@mui/material",
+                              "isWorkspace": false,
+                              "dependents": [
+                                {
+                                  "type": "prod",
+                                  "name": "@mui/material",
+                                  "spec": "^5.10.9",
+                                  "from": {
+                                    "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "prod",
+                "name": "@mui/utils",
+                "spec": "^5.10.9",
+                "from": {
+                  "name": "@mui/styles",
+                  "version": "5.10.9",
+                  "location": "node_modules/@mui/styles",
+                  "isWorkspace": false,
+                  "dependents": [
+                    {
+                      "type": "prod",
+                      "name": "@mui/styles",
+                      "spec": "^5.10.9",
+                      "from": {
+                        "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "prod",
+                "name": "@mui/utils",
+                "spec": "^5.10.9",
+                "from": {
+                  "name": "@mui/system",
+                  "version": "5.10.9",
+                  "location": "node_modules/@mui/system",
+                  "isWorkspace": false,
+                  "dependents": [
+                    {
+                      "type": "prod",
+                      "name": "@mui/system",
+                      "spec": "^5.10.9",
+                      "from": {
+                        "name": "@mui/material",
+                        "version": "5.10.9",
+                        "location": "node_modules/@mui/material",
+                        "isWorkspace": false,
+                        "dependents": [
+                          {
+                            "type": "prod",
+                            "name": "@mui/material",
+                            "spec": "^5.10.9",
+                            "from": {
+                              "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "peer",
+          "name": "react",
+          "spec": "^17.0.2 || ^18.0.0-0",
+          "from": {
+            "name": "next",
+            "version": "12.3.1",
+            "location": "node_modules/next",
+            "isWorkspace": false,
+            "dependents": [
+              {
+                "type": "prod",
+                "name": "next",
+                "spec": "12.3.1",
+                "from": {
+                  "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "peer",
+          "name": "react",
+          "spec": "^18.2.0",
+          "from": {
+            "name": "react-dom",
+            "version": "18.2.0",
+            "location": "node_modules/react-dom",
+            "isWorkspace": false,
+            "dependents": [
+              {
+                "type": "peer",
+                "name": "react-dom",
+                "spec": "^17.0.0 || ^18.0.0",
+                "from": {
+                  "name": "@mui/base",
+                  "version": "5.0.0-alpha.101",
+                  "location": "node_modules/@mui/base",
+                  "isWorkspace": false,
+                  "dependents": [
+                    {
+                      "type": "prod",
+                      "name": "@mui/base",
+                      "spec": "5.0.0-alpha.101",
+                      "from": {
+                        "name": "@mui/material",
+                        "version": "5.10.9",
+                        "location": "node_modules/@mui/material",
+                        "isWorkspace": false,
+                        "dependents": [
+                          {
+                            "type": "prod",
+                            "name": "@mui/material",
+                            "spec": "^5.10.9",
+                            "from": {
+                              "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "peer",
+                "name": "react-dom",
+                "spec": "^17.0.0 || ^18.0.0",
+                "from": {
+                  "name": "@mui/material",
+                  "version": "5.10.9",
+                  "location": "node_modules/@mui/material",
+                  "isWorkspace": false,
+                  "dependents": [
+                    {
+                      "type": "prod",
+                      "name": "@mui/material",
+                      "spec": "^5.10.9",
+                      "from": {
+                        "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "peer",
+                "name": "react-dom",
+                "spec": "^17.0.2 || ^18.0.0-0",
+                "from": {
+                  "name": "next",
+                  "version": "12.3.1",
+                  "location": "node_modules/next",
+                  "isWorkspace": false,
+                  "dependents": [
+                    {
+                      "type": "prod",
+                      "name": "next",
+                      "spec": "12.3.1",
+                      "from": {
+                        "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "peer",
+                "name": "react-dom",
+                "spec": ">=16.6.0",
+                "from": {
+                  "name": "react-transition-group",
+                  "version": "4.4.5",
+                  "location": "node_modules/react-transition-group",
+                  "isWorkspace": false,
+                  "dependents": [
+                    {
+                      "type": "prod",
+                      "name": "react-transition-group",
+                      "spec": "^4.4.5",
+                      "from": {
+                        "name": "@mui/material",
+                        "version": "5.10.9",
+                        "location": "node_modules/@mui/material",
+                        "isWorkspace": false,
+                        "dependents": [
+                          {
+                            "type": "prod",
+                            "name": "@mui/material",
+                            "spec": "^5.10.9",
+                            "from": {
+                              "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "prod",
+                "name": "react-dom",
+                "spec": "18.2.0",
+                "from": {
+                  "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "peer",
+          "name": "react",
+          "spec": ">=16.6.0",
+          "from": {
+            "name": "react-transition-group",
+            "version": "4.4.5",
+            "location": "node_modules/react-transition-group",
+            "isWorkspace": false,
+            "dependents": [
+              {
+                "type": "prod",
+                "name": "react-transition-group",
+                "spec": "^4.4.5",
+                "from": {
+                  "name": "@mui/material",
+                  "version": "5.10.9",
+                  "location": "node_modules/@mui/material",
+                  "isWorkspace": false,
+                  "dependents": [
+                    {
+                      "type": "prod",
+                      "name": "@mui/material",
+                      "spec": "^5.10.9",
+                      "from": {
+                        "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "peer",
+          "name": "react",
+          "spec": ">= 16.8.0 || 17.x.x || ^18.0.0-0",
+          "from": {
+            "name": "styled-jsx",
+            "version": "5.0.7",
+            "location": "node_modules/styled-jsx",
+            "isWorkspace": false,
+            "dependents": [
+              {
+                "type": "prod",
+                "name": "styled-jsx",
+                "spec": "5.0.7",
+                "from": {
+                  "name": "next",
+                  "version": "12.3.1",
+                  "location": "node_modules/next",
+                  "isWorkspace": false,
+                  "dependents": [
+                    {
+                      "type": "prod",
+                      "name": "next",
+                      "spec": "12.3.1",
+                      "from": {
+                        "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "peer",
+          "name": "react",
+          "spec": "^16.8.0 || ^17.0.0 || ^18.0.0",
+          "from": {
+            "name": "use-sync-external-store",
+            "version": "1.2.0",
+            "location": "node_modules/use-sync-external-store",
+            "isWorkspace": false,
+            "dependents": [
+              {
+                "type": "prod",
+                "name": "use-sync-external-store",
+                "spec": "1.2.0",
+                "from": {
+                  "name": "next",
+                  "version": "12.3.1",
+                  "location": "node_modules/next",
+                  "isWorkspace": false,
+                  "dependents": [
+                    {
+                      "type": "prod",
+                      "name": "next",
+                      "spec": "12.3.1",
+                      "from": {
+                        "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "prod",
+          "name": "react",
+          "spec": "18.2.0",
+          "from": {
+            "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+          }
+        }
+      ]
+    },
+    "peer": {
+      "name": "react",
+      "version": "17.0.2",
+      "whileInstalling": {
+        "name": "@mui/styles",
+        "version": "5.10.9",
+        "path": "C:\\Users\\Edwin Henriquez\\amazon-app\\node_modules\\@mui\\styles"
+      },
+      "location": "node_modules/react",
+      "isWorkspace": false,
+      "dependents": [
+        {
+          "type": "peer",
+          "name": "react",
+          "spec": "^17.0.0",
+          "error": "INVALID",
+          "from": {
+            "name": "@mui/styles",
+            "version": "5.10.9",
+            "location": "node_modules/@mui/styles",
+            "isWorkspace": false,
+            "dependents": [
+              {
+                "type": "prod",
+                "name": "@mui/styles",
+                "spec": "^5.10.9",
+                "from": {
+                  "location": "C:\\Users\\Edwin Henriquez\\amazon-app"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "strictPeerDeps": false,
+  "force": false,
+  "isMine": true
+}
